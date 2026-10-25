@@ -3,8 +3,8 @@ class Interlock < Formula
 
   desc "Pre/post-action gate for AI coding agents"
   homepage "https://github.com/interlockd/interlock"
-  url "https://files.pythonhosted.org/packages/5b/42/0705243af35a9621a4b414580e9d1c68126bc2b342f9c486f3f4dae2c9c4/interlockd-0.1.5.tar.gz"
-  sha256 "e59320b899520c3464096f9fdae4f9fac85f67e1d6d22929be9f7376d1391ef2"
+  url "https://files.pythonhosted.org/packages/21/21/e8c95c76f1c0afa675cedd9d2c21ce51ee3aaa033e7cbe2b639b8375260c/interlockd-0.1.6.tar.gz"
+  sha256 "61aec9e92bfd36a8efa28eaa5b91d5c9f13b37b96ebed843ad8d087527ea012b"
   license "Apache-2.0"
 
   depends_on "rust" => :build
